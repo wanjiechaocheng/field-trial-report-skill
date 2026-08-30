@@ -1,0 +1,2 @@
+# 统一行尾为 LF，避免跨平台（Windows/Linux/macOS）差异
+* text=auto
